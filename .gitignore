@@ -1,0 +1,8 @@
+rostos_salvos/
+rostos_finais/
+rostos/
+debug_todas_as_faces/
+*.mp4
+*.avi
+*.mov
+venv/

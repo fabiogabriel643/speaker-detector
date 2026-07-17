@@ -1,0 +1,5 @@
+opencv-python==5.0.0
+numpy
+insightface
+scikit-learn
+onnxruntime
